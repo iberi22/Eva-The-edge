@@ -179,6 +179,16 @@ subsystems expectations will be found here.
 
    workload-tracing
 
+AI and Automation
+-----------------
+
+Documentation for AI agent integration and autonomous system management.
+
+.. toctree::
+   :maxdepth: 1
+
+   ai-agent-layer
+
 Everything else
 ---------------
 
